@@ -18,7 +18,7 @@ Get name param of people table example
 python main.py select name from people
 ```
 
-If you show more params, without spaces write separated by ','
+If you need show more params, without spaces write separated by ','
 ```python
 python main.py select name,gender from people
 ```
